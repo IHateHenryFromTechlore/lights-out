@@ -6,6 +6,9 @@
   --border-color: #151515;
   --foreground-1: #FFFFFF;
   --foreground-2: #737373;
+
+  --sn-stylekit-monospace-font: 'Ubuntu Mono', courier, monospace;
+
  
   --sn-stylekit-neutral-color: var(--foreground-2); 
   --sn-stylekit-neutral-contrast-color: black;			/* Button text*/
